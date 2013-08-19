@@ -4,13 +4,12 @@
 # if exit code 2, the script had an error
 
 # last update
-lastupdate="15.07.2013"
-lastauthor="matija"
+lastupdate="19.08.2013"
+lastauthor="matibaski"
 version="2.0"
 
 # include vars
-#sourcepath=/Users/matija/Sites/admin-scripts/hostingscript
-sourcepath=/etc/admin-scripts/hostingscript
+sourcepath=/usr/local/bin/hosting-script
 source $sourcepath/vars.sh
 
 error_check() {
