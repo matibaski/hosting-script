@@ -42,3 +42,8 @@ change the settings under
 > /usr/local/bin/hosting-script/vars.sh
 
 with your paths and configs
+
+how to install
+==============
+problems, questions, ideas?
+write me an e-mail (info -at- matibaski.ch) or visit my website www.matibaski.ch
