@@ -6,20 +6,20 @@ Hosting script to create, manage and delete webhostings on a linux server via te
 The script contains following options:
 
 - web manager
-  > new hosting
-  > edit hosting
-  > list all existing hostings
-  > delete hosting
+  - new hosting
+  - edit hosting
+  - list all existing hostings
+  - delete hosting
 
 - mysql manager
-  > add new user & database
-  > change password for specific user
-  > delete user
-  > delete database
-  > add new user
-  > add new database
-  > list databases
-  > list users
+  - add new user & database
+  - change password for specific user
+  - delete user
+  - delete database
+  - add new user
+  - add new database
+  - list databases
+  - list users
 
 how to install
 ==============
