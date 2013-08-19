@@ -43,7 +43,7 @@ change the settings under
 
 with your paths and configs
 
-how to install
+contact
 ==============
 problems, questions, ideas?
 write me an e-mail (info -at- matibaski.ch) or visit my website www.matibaski.ch
