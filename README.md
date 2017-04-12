@@ -27,9 +27,6 @@ how to install
 download the repo and move it to:
 > /usr/local/bin/hosting-script
 
-make symlinks for easier access:
-> ln -s /usr/local/bin/hosting-script/hosting.sh /etc/hostingscript
-
 give permissions:
 > chmod +x /usr/local/bin/hosting-script/hosting.sh
 
